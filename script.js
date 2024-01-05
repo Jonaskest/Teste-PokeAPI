@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", function () {
         XPDoElemento.textContent = `Experiência Base: ${pokemonData.base_experience}`;
 
         const movimentoDoElemento = document.createElement("p");
-        movimentoDoElemento.textContent = `Poderes: ${pokemonData.moves.map(move => move.move.name).join(", ")}`;
+        movimentoDoElemento.textContent = `Habilidades: ${pokemonData.moves.map(move => move.move.name).join(", ")}`;
 
         const pesoDoElemento = document.createElement("p");
         pesoDoElemento.textContent = `Peso: ${pokemonData.weight / 10} kg`;

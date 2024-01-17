@@ -19,7 +19,7 @@ Exibição de Informações do Pokémon:
 
 ● Experiência base.
 
-● Lista de movimentos.(no teste decidir atualizar o nome para habilidades porque faz mais sentido)
+● Lista de movimentos.(no teste decidi atualizar o nome para habilidades porque faz mais sentido)
 
 ● Peso.
 
